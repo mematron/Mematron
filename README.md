@@ -12,8 +12,9 @@ I build client-side autonomous entities, digital grimoires, and interactive simu
 ### 1. BIOS of Being — Consciousness Operating System
 An immersive narrative simulation that models human consciousness, memory, and reality as a command-line operating system.
 * **Interactive Terminal:** [Run BIOS on Itch.io](https://ardorlyceum.itch.io/bios)
-* **The Consciousness Operating System Manual:** A 100-page privileged manual featuring kernel decryption keys and archetype installation codes. While it exists as a physical artifact in the San Diego Central Library's permanent collection, it was released as a digital DLC expansion for the BIOS simulation.
-* **The Sonification Cycle:** Accompanied by a 24-track soundscape translating structural system data into acoustic frequencies.
+* **The Consciousness Operating System Manual:** A 100-page privileged manual (DLC) featuring kernel decryption keys and archetype installation codes. Published following the simulation's release, it is also archived in the San Diego Central Library's permanent collection.
+* **Master Registry:** [Lyric Database Uplink](https://ardorlyceum.itch.io/bios/devlog/1482821/system-update-master-registry-lyric-database-uplink-active) — The canonical data log and poetic substrate of the BIOS framework.
+* **The Sonification Cycle:** [Listen to the 24-Track Cycle](https://mematron.hearnow.com) — A full-length acoustic translation of the system's structural logic.
 
 ### 2. Keygentia AI Taxonomy Engine (Node 03 of BIOS_OS)
 A scientific classification system for artificial intelligence, functioning as a recovered data packet from the **sps_0.trace** log within the BIOS_OS framework.
