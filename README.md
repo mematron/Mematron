@@ -31,17 +31,25 @@ An experimental browser-based digital art piece exploring how an artificial enti
 
 ---
 
+## 🏗️ Active Engineering Cycle
+
+### Minuet (v99) — Causal Discovery Agent
+An autonomous agent built in Python that treats the host Operating System as an interactive substrate. 
+* **Interventional Agency:** Moving beyond passive monitoring, Minuet "pokes" the substrate through planned interventions to map the hidden causal graph between process behavior, hardware pressure, and system stability.
+* **Autonomous Resource Management:** Utilizes reinforcement learning and behavioral pressure analysis to autonomously manage system resources, conducting real-time experiments to discover optimal operational states.
+* **Status:** Current focus of local development; engineering the transition from interventional OS logic to high-level causal reasoning.
+
+---
+
 ## 🛠️ Technical Toolkit
 * **Languages:** JavaScript (ES6+ Vanilla), Python, HTML5/CSS3
-* **Causal Inference & RL:** Custom Q-Learning implementations, Genetic Algorithms, and Interventional Causal Discovery.
-* **Libraries:** D3.js (Concept Mapping), Curses (Native Terminal UIs), NumPy/Psutil (Substrate Interfacing).
+* **Causal Inference & RL:** Custom Q-Learning, Genetic Algorithms, and Interventional Causal Discovery.
 * **Core Domains:** Autonomous Agents (Autonomiform), Paramorphic Learning, AI Taxonomy.
 
 ---
 
-## 🏗️ Active Local Development
-These projects focus on frameworkless programming and interventional logic within local environments.
+## 🗄️ Archival Foundations (Legacy Repositories)
+These repositories represent the established roots of my frameworkless philosophy, developed over a decade ago.
 
-* **[NoSight](https://github.com/mematron/NoSight):** Application design and accessibility-focused development tools.
-* **[Drawmation](https://github.com/mematron/Drawmation):** A custom engine for frameworkless animation and drawing.
-* **Minuet (v99):** An autonomous **Causal Discovery Agent** built in Python. Rather than passive monitoring, it utilizes interventional logic to map the causal graph of its host OS substrate, managing system resources through real-time behavioral pressure analysis and direct experiments.
+* **[NoSight](https://github.com/mematron/NoSight):** (10+ Years) Accessibility-focused development tools and application design.
+* **[Drawmation](https://github.com/mematron/Drawmation):** (10+ Years) A custom engine for frameworkless animation and drawing.
