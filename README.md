@@ -52,4 +52,4 @@ An autonomous agent built in Python that treats the host Operating System as an 
 Established roots of my frameworkless philosophy, developed over a decade ago.
 
 * **[NoSight](https://github.com/mematron/NoSight):** Hard-disabling video input on Mac. Putting tape over your iSight won't help you, but this will.
-* **[Drawmation](https://github.com/mematron/Drawmation):** A drawing application with a twist—the app animates as you draw. I call it, "Dramation."
+* **[Drawmation](https://github.com/mematron/Drawmation):** A drawing application with a twist.  The app animates as you draw. I call it, "Dramation."
