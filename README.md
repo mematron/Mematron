@@ -11,7 +11,7 @@ I build client-side autonomous entities, digital grimoires, and interactive simu
 
 ### 1. SUKOSHI — Autonomous AI Agent
 An experimental browser-based digital art piece and data sculpture exploring how an artificial entity learns, processes information, and visualizes its own "mind."
-* **Live App:** [Play SUKOSHI on Itch.io](https://ardorlyceum.itch.io/sukoshi)
+* **Live App:** [Run SUKOSHI on Itch.io](https://ardorlyceum.itch.io/sukoshi)
 * **The Q-Learning Mind:** Built entirely from scratch in vanilla JavaScript (zero frameworks). The agent uses dynamic reinforcement learning and genetic algorithms to navigate its environment.
 * **Thought Visualization:** Integrates with **D3.js** to map out its changing memory paths into an evolving, live-rendered concept graph.
 
