@@ -11,9 +11,9 @@ I build client-side autonomous entities, digital grimoires, and interactive simu
 
 ### 1. Integument
 A native simulation and interactive project published on Steam.
-* **Steam Store:** [Experience Integument on Steam](https://store.steampowered.com/app/2138990/Integument/)
-* **The Environment:** A detailed exploration of isolation and mechanical atmosphere within a native gaming framework.
-* **Expansion:** Features additional DLC that extends the structural narrative and depth of the simulation.
+* **Steam Store:** [Integument on Steam](https://store.steampowered.com/app/2138990/Integument/)
+* **Integument: The Cloak:** [DLC Expansion](https://store.steampowered.com/app/2375970/Integument_The_Cloak/)
+* **The Interface:** A specialized microscope interface designed to observe and simulate microbial life existing on the surface of the skin.
 
 ### 2. SUKOSHI — Autonomous AI Agent
 An experimental browser-based digital art piece and data sculpture exploring how an artificial entity learns, processes information, and visualizes its own "mind."
