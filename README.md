@@ -30,8 +30,9 @@ A native simulation and interactive project published on Steam.
 
 ### 4. SUKOSHI — Autonomous AI Agent
 An experimental browser-based digital art piece exploring how an artificial entity learns, processes information, and visualizes its own "mind."
-* **Live App:** [Run SUKOSHI on Itch.io](https://ardorlyceum.itch.io/sukoshi)
-* **The Q-Learning Mind:** Built entirely from scratch in vanilla JavaScript (zero frameworks). The agent (evolved from the **Minuet** system) uses dynamic reinforcement learning and genetic algorithms.
+* **Live App & Devlog:** [Run SUKOSHI on Itch.io](https://ardorlyceum.itch.io/sukoshi)
+* **Evolutionary Path:** The direct successor to the **Minuet** (v99) system, evolving from a local Python system monitor into a browser-native causal agent.
+* **The Q-Learning Mind:** Built entirely from scratch in vanilla JavaScript (zero frameworks). Uses dynamic reinforcement learning and genetic algorithms.
 * **Thought Visualization:** Integrates with **D3.js** to map out evolving memory paths into live-rendered concept graphs.
 
 ---
@@ -44,4 +45,8 @@ An experimental browser-based digital art piece exploring how an artificial enti
 ---
 
 ## 🗄️ Native Software Repositories
-Check out my active local repositories below, including **NoSight** and **Drawmation**, focusing on application design and frameworkless programming.
+Active repositories focusing on frameworkless programming and application design.
+
+* **[NoSight](https://github.com/mematron/NoSight):** Application design and accessibility-focused development tools.
+* **[Drawmation](https://github.com/mematron/Drawmation):** A custom engine for frameworkless animation and drawing.
+* **Minuet:** (Current Work-in-Progress) — A local Python-based system monitor and precursor to the SUKOSHI agent architecture.
