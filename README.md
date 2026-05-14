@@ -1,31 +1,34 @@
-# Mematron
+# Hi, I'm Jason German (mematron) 👋
+**Software Developer, Digital Artist, & Explorer of Autonomous Forms**
 
-## Development
+I build client-side autonomous entities, digital grimoires, and interactive simulations that run entirely in browser-based and device-native environments. 
 
-See the [Quickstart](http://docs.init.ai/docs/quickstart) for details on setting up your development environment
+🌐 **Experience My Active Projects:** [ardorlyceum.itch.io](https://itch.io)
 
-### Installation
+---
 
-#### Node.js version
+## 👁️ Featured Projects
 
-To [run your scripts locally](http://docs.init.ai/docs/dev-server#section-local-testing), you should make sure to use Node.js version 4.3.2.
+### 1. SUKOSHI — Autonomous AI Agent
+An experimental browser-based digital art piece and data sculpture exploring how an artificial entity learns, processes information, and visualizes its own "mind."
+* **Live App:** [Play SUKOSHI on Itch.io](https://itch.io/sukoshi)
+* **The Q-Learning Mind:** Built entirely from scratch in vanilla JavaScript (zero frameworks). The agent uses dynamic reinforcement learning and genetic algorithms to navigate its environment.
+* **Thought Visualization:** Integrates with **D3.js** to map out its changing memory paths into an evolving, live-rendered concept graph.
 
-We recommend using [nvm](https://github.com/creationix/nvm) to easily manage Node.js versions on your machine. This project is pre-provisioned with an `.nvmrc` file so you may simply run:
+### 2. BIOS of Being — Consciousness Operating System
+An immersive, multi-layered interactive narrative simulation that models human consciousness, memory, and reality as a command-line operating system.
+* **Interactive Terminal:** [Run BIOS on Itch.io](https://itch.io/bios)
+* **The Architecture:** Fuses a retro command-line console interface with intricate, hand-drawn digital illustration overlays. 
+* **The Sonification Cycle:** Accompanied by a 24-track soundscape that translates structural system data directly into acoustic frequencies.
 
-```bash
-$ nvm use
-```
+---
 
-#### Install dependencies
+## 🛠️ Technical Toolkit
+* **Languages:** JavaScript (ES6+ Vanilla), Python, HTML5/CSS3
+* **Libraries & Data Visualization:** D3.js (Dynamic Mapping)
+* **Core Domains:** Autonomous Agents, Q-Learning, Genetic Algorithms, Causal Inference Systems, Generative Art
 
-```bash
-$ npm i
-```
+---
 
-### Usage
-
-#### Start the Dev Server
-
-```bash
-$ npm start
-```
+## 🗄️ Native Software Repositories
+Check out my active local repositories below, including **NoSight** and **Drawmation**, focusing on application design and frameworkless programming.
