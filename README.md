@@ -3,17 +3,17 @@
 
 [cite_start]I build client-side autonomous entities, digital grimoires, and interactive simulations that run entirely in browser-based and device-native environments. 
 
-[cite_start]🌐 **Experience My Active Projects:** [ardorlyceum.itch.io](https://ardorlyceum.itch.io/) [cite: 163]
+[cite_start]🌐 **Experience My Active Projects:** [ardorlyceum.itch.io](https://ardorlyceum.itch.io/) [cite: 26, 163]
 
 ---
 
 ## 👁️ Featured Projects
 
-### 1. Integument — Dark Sci-Fi Survival Horror
-A complex native simulation and gaming experience published on Steam.
-* **Steam Store:** [Play Integument on Steam](https://store.steampowered.com/app/2138990/Integument/)
-* **The Experience:** Explores themes of isolation and biological horror through immersive environments and intricate mechanical systems.
-* **Expansion:** Includes dedicated DLC content that further expands the narrative and world-building of the Integument universe.
+### 1. Integument
+A native simulation and interactive project published on Steam.
+* **Steam Store:** [Experience Integument on Steam](https://store.steampowered.com/app/2138990/Integument/)
+* **The Environment:** A detailed exploration of isolation and mechanical atmosphere within a native gaming framework.
+* **Expansion:** Features additional DLC that extends the structural narrative and depth of the simulation.
 
 ### 2. SUKOSHI — Autonomous AI Agent
 [cite_start]An experimental browser-based digital art piece and data sculpture exploring how an artificial entity learns, processes information, and visualizes its own "mind." [cite: 165, 166]
