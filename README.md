@@ -33,7 +33,7 @@ An experimental browser-based digital art piece exploring how an artificial enti
 
 ## 🏗️ Active Engineering Cycle
 
-### [Minuet (v99) — Causal Discovery Agent](https://github.com/mematron/Minuet)
+### [Minuet — Causal Discovery Agent](https://github.com/mematron/Minuet)
 An autonomous agent built in Python that treats the host Operating System as an interactive substrate. 
 * **Interventional Agency:** Moving beyond passive monitoring, Minuet "pokes" the substrate through planned interventions to map the hidden causal graph between process behavior, hardware pressure, and system stability.
 * **Autonomous Resource Management:** Utilizes reinforcement learning and behavioral pressure analysis to manage system resources, conducting real-time experiments to discover optimal operational states.
