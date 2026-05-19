@@ -42,11 +42,11 @@ An experimental browser-based digital art piece exploring how an artificial enti
 
 ### [Arminta (Formerly Minuet) — Causal Discovery Agent](https://github.com/mematron/Arminta)
 
-An autonomous Python agent that treats the host Operating System as an interactive substrate — not a passive environment to monitor, but a causal field to interrogate through planned intervention.
+An autonomous Python agent that treats the host Operating System as an interactive substrate.  A causal field to interrogate through planned intervention.
 
-* **Interventional Agency:** Arminta acts, measures effect, and updates a live interventional causal graph, building a private world model from empirical measurement alone. Every edge was earned by doing something and watching what happened — over 85,000 live steps on target hardware.
+* **Interventional Agency:** Arminta acts, measures effect, and updates a live interventional causal graph, building a private world model from empirical measurement alone. Every edge was earned by doing something and watching what happened (over 85,000 live steps on target hardware).
 * **Autonomous Resource Management:** Combines Q-learning, session geometry classification, and a reward-discount layer to select and execute system interventions, with counterfactual correction so the agent doesn't take credit it didn't earn.
-* **Status:** Active development at v107. Full cognitive layer operational — emotion model, episodic memory, dream cycle, self-model, and genetic algorithm self-tuner.
+* **Status:** Active development at v107. Full cognitive layer operational (emotion model, episodic memory, dream cycle, self-model, and genetic algorithm self-tuner).
 
 ---
 
