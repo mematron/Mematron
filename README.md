@@ -10,25 +10,25 @@ I build client-side autonomous entities, digital grimoires, and interactive simu
 
 ## 👁️ Featured Projects
 
-### 1. BIOS of Being — Consciousness Operating System
+### 1. BIOS of Being: Consciousness Operating System
 
 An immersive narrative simulation that models human consciousness, memory, and reality as a command-line operating system.
 
 * **Interactive Terminal:** [Run BIOS of Being on Itch.io](https://ardorlyceum.itch.io/bios)
 * **The Consciousness Operating System Manual:** A 100-page privileged manual (DLC) featuring kernel decryption keys and archetype installation codes. Archived in the San Diego Central Library's permanent collection.
-* **Master Registry: Lyric Database:** [Database Uplink](https://ardorlyceum.itch.io/bios/devlog/1482821/system-update-master-registry-lyric-database-uplink-active) — The canonical data log and poetic substrate of the BIOS of Being framework.
-* **BIOS_OS: The Sonification Cycle:** [Listen to the 24 Tracks](https://mematron.hearnow.com) — A 24-track full-length acoustic translation of the system's structural logic.
-* **Keygentia AI Taxonomy Engine:** [keygentia.netlify.app](https://keygentia.netlify.app/) — Functioning as **Node 03** of the BIOS of Being framework, this is a scientific classification system for AI.
+* **Master Registry: Lyric Database:** [Database Uplink](https://ardorlyceum.itch.io/bios/devlog/1482821/system-update-master-registry-lyric-database-uplink-active) - The canonical data log and poetic substrate of the BIOS of Being framework.
+* **BIOS_OS: The Sonification Cycle:** [Listen to the 24 Tracks](https://mematron.hearnow.com) - A 24-track full-length acoustic translation of the system's structural logic.
+* **Keygentia AI Taxonomy Engine:** [keygentia.netlify.app](https://keygentia.netlify.app/) - Functioning as **Node 03** of the BIOS of Being framework, this is a scientific classification system for AI.
 
 ### 2. Integument
 
 A standalone native simulation and interactive project published on Steam.
 
 * **Steam Store:** [Integument on Steam](https://store.steampowered.com/app/2138990/Integument/)
-* **DLC Expansion:** [Integument — Database Gates](https://store.steampowered.com/app/2139080/Integument__Database_Gates/)
+* **DLC Expansion:** [Integument - Database Gates](https://store.steampowered.com/app/2139080/Integument__Database_Gates/)
 * **The Interface:** A specialized microscope interface designed to observe and simulate microbial life.
 
-### 3. SUKOSHI — Autonomous AI Agent
+### 3. SUKOSHI: Autonomous AI Agent
 
 An experimental browser-based digital art piece exploring how an artificial entity learns and visualizes its own "mind."
 
@@ -40,13 +40,13 @@ An experimental browser-based digital art piece exploring how an artificial enti
 
 ## 🏗️ Active Engineering Cycle
 
-### [Arminta (Formerly Minuet) — Causal Discovery Agent](https://github.com/mematron/Arminta)
+### [Arminta (Formerly Minuet): Causal Discovery Agent](https://github.com/mematron/Arminta)
 
-A Python-based autonomous agent that treats the host Operating System as an interactive substrate — not a passive environment to monitor, but a causal field to interrogate through planned intervention. It's not a script that runs on a schedule; it's a cognitive loop that runs step by step, learns from what it does, and builds an internal model of cause and effect on your specific hardware.
+A Python-based autonomous agent that treats the host Operating System as an interactive substrate, not a passive environment to monitor, but a causal field to interrogate through planned intervention. It's not a script that runs on a schedule; it's a cognitive loop that runs step by step, learns from what it does, and builds an internal model of cause and effect on your specific hardware.
 
 * **Interventional Agency:** Arminta acts, measures effect, and updates a live interventional causal graph, building a private world model from empirical measurement alone. Over 138,000+ live steps on target hardware (every edge in the graph was earned by doing something and watching what happened).
 * **Autonomous Resource Management:** Combines Q-learning, session geometry classification, and a reward-discount layer to select and execute system interventions, with counterfactual correction so the agent doesn't take credit it didn't earn.
-* **Extension Renderer Sweep (v2):** A brand-agnostic browser process classifier identifies Extension Renderer processes by architectural flags alone — no browser names, no heuristics. These are killed first: they auto-restart, the user sees nothing, and the CPU headroom is real. Main browser processes are never touched.
+* **Extension Renderer Sweep (v2):** A brand-agnostic browser process classifier identifies Extension Renderer processes by architectural flags alone, no browser names, no heuristics. These are killed first: they auto-restart, the user sees nothing, and the CPU headroom is real. Main browser processes are never touched.
 * **Status:** Active development at v2. Full cognitive layer operational (emotion model, episodic memory, dream cycle, self-model, and genetic algorithm self-tuner). Successor to Minuet, which completed development at v106.
 
 ---
