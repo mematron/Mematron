@@ -44,9 +44,10 @@ An experimental browser-based digital art piece exploring how an artificial enti
 
 A Python-based autonomous agent that treats the host Operating System as an interactive substrate — not a passive environment to monitor, but a causal field to interrogate through planned intervention. It's not a script that runs on a schedule; it's a cognitive loop that runs step by step, learns from what it does, and builds an internal model of cause and effect on your specific hardware.
 
-* **Interventional Agency:** Arminta acts, measures effect, and updates a live interventional causal graph, building a private world model from empirical measurement alone. Over 90,000+ live steps on target hardware (every edge in the graph was earned by doing something and watching what happened).
+* **Interventional Agency:** Arminta acts, measures effect, and updates a live interventional causal graph, building a private world model from empirical measurement alone. Over 138,000+ live steps on target hardware (every edge in the graph was earned by doing something and watching what happened).
 * **Autonomous Resource Management:** Combines Q-learning, session geometry classification, and a reward-discount layer to select and execute system interventions, with counterfactual correction so the agent doesn't take credit it didn't earn.
-* **Status:** Active development at v1. Full cognitive layer operational (emotion model, episodic memory, dream cycle, self-model, and genetic algorithm self-tuner). Successor to Minuet, which completed development at v106.
+* **Extension Renderer Sweep (v2):** A brand-agnostic browser process classifier identifies Extension Renderer processes by architectural flags alone — no browser names, no heuristics. These are killed first: they auto-restart, the user sees nothing, and the CPU headroom is real. Main browser processes are never touched.
+* **Status:** Active development at v2. Full cognitive layer operational (emotion model, episodic memory, dream cycle, self-model, and genetic algorithm self-tuner). Successor to Minuet, which completed development at v106.
 
 ---
 
