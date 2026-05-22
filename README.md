@@ -52,14 +52,6 @@ A Python-based autonomous agent that treats the host Operating System as an inte
 
 ---
 
-## 🛠️ Technical Toolkit
-
-* **Languages:** JavaScript (ES6+ Vanilla), Python, HTML5/CSS3
-* **Causal Inference & RL:** Custom Q-Learning, Genetic Algorithms, and Interventional Causal Discovery.
-* **Core Domains:** Autonomous Agents (Autonomiform), Paramorphic Learning, AI Taxonomy.
-
----
-
 ## 🗄️ Archival Foundations (Legacy Repositories)
 
 Established roots of my frameworkless philosophy, developed over a decade ago.
