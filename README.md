@@ -1,6 +1,6 @@
 # Hi, I'm Jason German (mematron) 👋
 
-**Software Developer, Digital Artist, & Explorer of Autonomous Forms**
+**Software Developer, Digital Artist, and Builder of Things That Learn**
 
 I build client-side autonomous entities, digital grimoires, and interactive simulations that run entirely in browser-based and device-native environments.
 
@@ -16,9 +16,9 @@ An immersive narrative simulation that models human consciousness, memory, and r
 
 * **Interactive Terminal:** [Run BIOS of Being on Itch.io](https://ardorlyceum.itch.io/bios)
 * **The Consciousness Operating System Manual:** A 100-page privileged manual (DLC) featuring kernel decryption keys and archetype installation codes. Archived in the San Diego Central Library's permanent collection.
-* **Master Registry: Lyric Database:** [Database Uplink](https://ardorlyceum.itch.io/bios/devlog/1482821/system-update-master-registry-lyric-database-uplink-active) - The canonical data log and poetic substrate of the BIOS of Being framework.
-* **BIOS_OS: The Sonification Cycle:** [Listen to the 24 Tracks](https://mematron.hearnow.com) - A 24-track full-length acoustic translation of the system's structural logic.
-* **Keygentia AI Taxonomy Engine:** [keygentia.netlify.app](https://keygentia.netlify.app/) - Functioning as **Node 03** of the BIOS of Being framework, this is a scientific classification system for AI.
+* **Master Registry: Lyric Database:** [Database Uplink](https://ardorlyceum.itch.io/bios/devlog/1482821/system-update-master-registry-lyric-database-uplink-active) -- The canonical data log and poetic substrate of the BIOS of Being framework.
+* **BIOS_OS: The Sonification Cycle:** [Listen to the 24 Tracks](https://mematron.hearnow.com) -- A 24-track full-length acoustic translation of the system's structural logic.
+* **Keygentia AI Taxonomy Engine:** [keygentia.netlify.app](https://keygentia.netlify.app/) -- Functioning as **Node 03** of the BIOS of Being framework, this is a scientific classification system for AI.
 
 ### 2. Integument
 
@@ -37,7 +37,7 @@ An experimental browser-based digital art piece exploring how an artificial enti
 
 ---
 
-## 🏗️ Active Engineering Cycle
+## 🔬 Active Engineering Cycle
 
 ### [Arminta (Formerly Minuet): Causal Discovery Agent](https://github.com/mematron/Arminta)
 
