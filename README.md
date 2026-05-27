@@ -22,11 +22,10 @@ An immersive narrative simulation that models human consciousness, memory, and r
 
 ### 2. Integument
 
-A standalone native simulation and interactive project published on Steam.
+A sci-fi living illustration published on Steam. Not a game. A microscope interface you actually look through, finding patterns and shapes that reveal the lifeforms that live on the surface of your skin. The organisms you are observing are real. The framing is fiction. The line between the two is the point.
 
 * **Steam Store:** [Integument on Steam](https://store.steampowered.com/app/2138990/Integument/)
 * **DLC Expansion:** [Integument - Database Gates](https://store.steampowered.com/app/2139080/Integument__Database_Gates/)
-* **The Interface:** A specialized microscope interface designed to observe and simulate microbial life.
 
 ### 3. SUKOSHI: Autonomous AI Agent
 
