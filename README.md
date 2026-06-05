@@ -39,16 +39,14 @@ An experimental browser-based digital art piece exploring how an artificial enti
 
 ### [Arminta (Formerly Minuet): Causal Discovery Agent](https://github.com/mematron/Arminta)
 
-**v5 — Self-Expanding Action Space & Focus-Aware Optimization**
+**v6 — External Actor Integration & Predictive Memory Management**
 
 ARMINTA is a Python-based autonomous causal discovery agent running continuously on Linux. It does **not** passively monitor the OS — it actively intervenes, measures outcomes, and builds a grounded causal model of *your specific hardware* from scratch. Every edge in the model is earned through real actions and empirical observation.
 
-**Key v5 Features:**
-- **PriorityShift** — Focus-aware dynamic process priority (inspired by Process Lasso). Uses event-driven `xdotool` focus tracking. RL-learns optimal `nice` delta. Background processes are throttled on focus loss and restored on focus gain.
-- **Self-Expanding Action Space** — `SelfTuner` + `ActionProposer` + `SandboxRunner`: Detects gap metrics, proposes safe whitelisted shell templates, runs them in a controlled sandbox (timeout + trust scoring), and promotes proven actions into the live causal graph.
-- **zRAM-Aware Memory Management** — Reads real compression stats from `/sys/block/zram0/mm_stat`; intelligently suppresses `drop_caches` when compressed swap is active.
-- **Battery-Aware Action Gating** — Suppresses performance escalations on low battery.
-- Full v4 foundation retained and enhanced (Temporal Causal Graph, DDQN Meta-Cognitive Controller, MosaicCore, LexicalCore emergent language, WebLearner, SomaticConfidenceModel, etc.).
+**Key v6 Features:**
+- **EarlyOOM Observation Node** — `earlyoom_ct` added as a new observational-only SCM metric: a per-step count of processes killed by the `earlyoom` daemon, parsed from `journalctl`. All `action → earlyoom_ct` causal edges are poison-listed at write time — the valid causal direction is earlyoom pressure toward action selection, not the reverse. The agent learns system preconditions that precede OOM kills and can act before the next one fires.
+- **Circadian Memory Look-Ahead** — `_check_circadian_memory()` mirrors the existing CPU governor look-ahead: if the MosaicCore circadian log predicts a high-RAM hour arriving soon, Arminta fires `compact_memory` during the current idle lull — compacting address space while there's room rather than after the spike. Gate conditions enforce safety (history depth, meaningful predicted rise, no zswap, 20-minute cooldown). Log prefix `[CIRC-MEM]`.
+- Full v5 foundation retained: **PriorityShift** (focus-aware dynamic process priority, RL-learned nice delta), **SelfTuner + ActionProposer + SandboxRunner** (self-expanding action space), **zRAM-aware memory management**, **battery-aware action gating**, and the complete v4 cognitive hierarchy (Temporal Causal Graph, DDQN CMC, MosaicCore, LexicalCore, WebLearner, SomaticConfidenceModel, etc.).
 
 **Live Stats** (pushed directly from the running agent):  
 ![Live Steps](https://img.shields.io/badge/dynamic/json?url=https://gist.githubusercontent.com/mematron/27ec34034b4aed5d2cdd7563738fe5be/raw/arminta_stats.json&query=$.step_count&label=live%20steps&color=brightgreen&suffix=%2B&cacheSeconds=300)  
@@ -56,7 +54,7 @@ ARMINTA is a Python-based autonomous causal discovery agent running continuously
 
 Full architecture, cognitive hierarchy (updated Mermaid diagram), version lineage, and detailed documentation are in the repo.
 
-**Status:** Active development at **v5**.
+**Status:** Active development at **v6**.
 
 ---
 
