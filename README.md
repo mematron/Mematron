@@ -39,18 +39,18 @@ An experimental browser-based digital art piece exploring how an artificial enti
 
 ### [Arminta (Formerly Minuet): Causal Discovery Agent](https://github.com/mematron/Arminta)
 
-**v6 — External Actor Integration & Predictive Memory Management**
+**v6 - External Actor Integration & Predictive Memory Management**
 
-ARMINTA is a Python-based autonomous causal discovery agent running continuously on Linux. It does **not** passively monitor the OS — it actively intervenes, measures outcomes, and builds a grounded causal model of *your specific hardware* from scratch. Every edge in the model is earned through real actions and empirical observation.
+ARMINTA is a Python-based autonomous causal discovery agent running continuously on Linux. It does not passively monitor the OS. It actively intervenes, measures outcomes, and builds a grounded causal model of your specific hardware from scratch. Every edge in the model is earned through real actions and empirical observation.
 
 **Key v6 Features:**
-- **HobbyCore** — voluntary external engagement layer. ARMINTA reaches outward to four probe domains (public network latency, local hardware sensors via sysfs, system load index, and solar/daylight context), driven by intensity-weighted domain interest and emotional receptivity. External observations are correlated against internal system metrics and injected into the causal graph as observable (non-interventional) edges. Domain symbols seed into LexicalCore. Observations record as episodic memories. Fires during DREAM cycles; blocked entirely when stressed or apprehensive.
-- **EarlyOOM Observation Node** — `earlyoom_ct` added as a new observational-only SCM metric: a per-step count of processes killed by the `earlyoom` daemon, parsed from `journalctl`. All `action → earlyoom_ct` causal edges are poison-listed at write time — the valid causal direction is earlyoom pressure toward action selection, not the reverse. The agent learns system preconditions that precede OOM kills and can act before the next one fires.
-- **Circadian Memory Look-Ahead** — `_check_circadian_memory()` mirrors the existing CPU governor look-ahead: if the MosaicCore circadian log predicts a high-RAM hour arriving soon, Arminta fires `compact_memory` during the current idle lull — compacting address space while there's room rather than after the spike. Gate conditions enforce safety (history depth, meaningful predicted rise, no zswap, 20-minute cooldown). Log prefix `[CIRC-MEM]`.
+- **HobbyCore** - voluntary external engagement layer. Fires during DREAM cycles when emotional state is receptive. Samples four probe domains (public network latency, local hardware sensors via sysfs, system load index, and solar/daylight context) using intensity-weighted domain interest. External observations are correlated against internal system metrics and injected into the causal graph as observable (non-interventional) edges. Domain symbols seed into LexicalCore. Blocked entirely when stressed or apprehensive.
+- **EarlyOOM Observation Node** - `earlyoom_ct` added as an observational-only SCM metric: a per-step count of processes killed by the `earlyoom` daemon, parsed from `journalctl`. All `action -> earlyoom_ct` causal edges are poison-listed at write time. The agent learns system preconditions that precede OOM kills and can act before the next one fires.
+- **Circadian Memory Look-Ahead** - `_check_circadian_memory()` mirrors the existing CPU governor look-ahead: if the MosaicCore circadian log predicts a high-RAM hour arriving soon, ARMINTA fires `compact_memory` during the current idle lull. Gate conditions enforce safety (history depth, meaningful predicted rise, no zswap, 20-minute cooldown). Log prefix `[CIRC-MEM]`.
 - Full v5 foundation retained: **PriorityShift** (focus-aware dynamic process priority, RL-learned nice delta), **SelfTuner + ActionProposer + SandboxRunner** (self-expanding action space), **zRAM-aware memory management**, **battery-aware action gating**, and the complete v4 cognitive hierarchy (Temporal Causal Graph, DDQN CMC, MosaicCore, LexicalCore, WebLearner, SomaticConfidenceModel, etc.).
 
-**Live Stats** (pushed directly from the running agent):  
-![Live Steps](https://img.shields.io/badge/dynamic/json?url=https://gist.githubusercontent.com/mematron/27ec34034b4aed5d2cdd7563738fe5be/raw/arminta_stats.json&query=$.step_count&label=live%20steps&color=brightgreen&suffix=%2B&cacheSeconds=300)  
+**Live Stats** (pushed directly from the running agent):
+![Live Steps](https://img.shields.io/badge/dynamic/json?url=https://gist.githubusercontent.com/mematron/27ec34034b4aed5d2cdd7563738fe5be/raw/arminta_stats.json&query=$.step_count&label=live%20steps&color=brightgreen&suffix=%2B&cacheSeconds=300)
 **<a href="https://mematron.github.io/arminta-status">Live Agent Dashboard</a>**
 
 Full architecture, cognitive hierarchy (updated Mermaid diagram), version lineage, and detailed documentation are in the repo.
