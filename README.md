@@ -39,14 +39,15 @@ An experimental browser-based digital art piece exploring how an artificial enti
 
 ### [Arminta (Formerly Minuet): Causal Discovery Agent](https://github.com/mematron/Arminta)
 
-**v6 - External Actor Integration & Predictive Memory Management**
+**v7 - Self-Directed Capability Development**
 
 ARMINTA is a Python-based autonomous causal discovery agent running continuously on Linux. It does not passively monitor the OS. It actively intervenes, measures outcomes, and builds a grounded causal model of your specific hardware from scratch. Every edge in the model is earned through real actions and empirical observation.
 
-**Key v6 Features:**
-- **HobbyCore** - voluntary external engagement layer. Fires during DREAM cycles when emotional state is receptive. Samples four probe domains (public network latency, local hardware sensors via sysfs, system load index, and solar/daylight context) using intensity-weighted domain interest. External observations are correlated against internal system metrics and injected into the causal graph as observable (non-interventional) edges. Domain symbols seed into LexicalCore. Blocked entirely when stressed or apprehensive.
-- **EarlyOOM Observation Node** - `earlyoom_ct` added as an observational-only SCM metric: a per-step count of processes killed by the `earlyoom` daemon, parsed from `journalctl`. All `action -> earlyoom_ct` causal edges are poison-listed at write time. The agent learns system preconditions that precede OOM kills and can act before the next one fires.
-- **Circadian Memory Look-Ahead** - `_check_circadian_memory()` mirrors the existing CPU governor look-ahead: if the MosaicCore circadian log predicts a high-RAM hour arriving soon, ARMINTA fires `compact_memory` during the current idle lull. Gate conditions enforce safety (history depth, meaningful predicted rise, no zswap, 20-minute cooldown). Log prefix `[CIRC-MEM]`.
+**Key v7 Features:**
+- **Wish Pipeline (W1-W4)** - self-directed capability development triggered during SELF_ASSESS. W1 detects causal dead zones and situation gaps in the learned world model. W2 searches for procurement candidates from existing system utilities and the action registry. W3 runs shadow staging for ~2000 steps with no execution - observe only, with routing validation gates. W4 grades over 5000 steps and returns WIN/TIE/LOSE verdicts. W4b generates implementation code from her own source via AST on WIN, backs up the current source, and appends staged actions for human review. 24 wins to date, 17 active wishes.
+- **Full v6 foundation retained: HobbyCore** - voluntary external engagement layer. Fires during DREAM cycles when emotional state is receptive. Samples four probe domains (public network latency, local hardware sensors via sysfs, system load index, and solar/daylight context) using intensity-weighted domain interest. 923 total fetches, 72 novel observable edges discovered.
+- **EarlyOOM Observation Node** - `earlyoom_ct` as an observational-only SCM metric. All `action -> earlyoom_ct` causal edges are poison-listed at write time. The agent learns preconditions that precede OOM kills.
+- **Circadian Memory Look-Ahead** - `_check_circadian_memory()` fires `compact_memory` during predicted idle lulls before historically high-RAM hours. Log prefix `[CIRC-MEM]`.
 - Full v5 foundation retained: **PriorityShift** (focus-aware dynamic process priority, RL-learned nice delta), **SelfTuner + ActionProposer + SandboxRunner** (self-expanding action space), **zRAM-aware memory management**, **battery-aware action gating**, and the complete v4 cognitive hierarchy (Temporal Causal Graph, DDQN CMC, MosaicCore, LexicalCore, WebLearner, SomaticConfidenceModel, etc.).
 
 **Live Stats** (pushed directly from the running agent):
@@ -55,7 +56,7 @@ ARMINTA is a Python-based autonomous causal discovery agent running continuously
 
 Full architecture, cognitive hierarchy (updated Mermaid diagram), version lineage, and detailed documentation are in the repo.
 
-**Status:** Active development at **v6**.
+**Status:** Active development at **v7**.
 
 ---
 
