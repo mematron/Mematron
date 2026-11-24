@@ -6,6 +6,8 @@ I build client-side autonomous entities, digital grimoires, and interactive simu
 
 🌐 **Portfolio:** https://mematron.github.io/portfolio/ · 📄 **Resume (PDF):** https://mematron.github.io/portfolio/resume.pdf · **LinkedIn:** https://www.linkedin.com/in/mematron
 
+Open to opportunities in Creative Technology, Applied AI, Autonomous Systems and R&D | Remote
+
 🌐 **Experience My Active Projects:** [ardorlyceum.itch.io](https://ardorlyceum.itch.io/)
 
 ---
