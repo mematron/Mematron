@@ -2,7 +2,7 @@
 
 **Creative Technologist / Autonomous Systems Developer / Illustrator**
 
-I build client-side autonomous entities, digital grimoires, and interactive simulations that run entirely in browser-based and device-native environments. I have been building agent technology since 2000, from the NetSage agents at Finali to ARMINTA, my autonomous agent that runs 24/7 and has passed 4 million steps.
+I build client-side autonomous entities, digital grimoires, and interactive simulations that run entirely in browser-based and device-native environments. The art is not separate from the code: I am an illustrator and traditional artist, I have painted and programmed side by side since I wrote my first AI at 12 in 1982, and each side shapes the other. I have been building agent technology since 2000, from the NetSage agents at Finali to ARMINTA, my autonomous agent that runs 24/7 and has passed 4 million steps.
 
 🌐 **Portfolio:** https://mematron.github.io/portfolio/ · 📄 **Resume (PDF):** https://mematron.github.io/portfolio/resume.pdf · **LinkedIn:** https://www.linkedin.com/in/mematron
 
