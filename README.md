@@ -48,6 +48,7 @@ Full architecture, cognitive hierarchy (updated Mermaid diagram), version lineag
 An immersive narrative simulation that models human consciousness, memory, and reality as a command-line operating system.
 
 * **Interactive Terminal:** [Run BIOS of Being on Itch.io](https://ardorlyceum.itch.io/bios)
+* **The Daemon Familiar:** SUKOSHI carried forward. My browser agent was rethemed into this world, and the familiar is its updated form, still running on Paramorphic Learning.
 * **The Consciousness Operating System Manual:** A 100-page privileged manual (DLC) featuring kernel decryption keys and archetype installation codes. Archived in the San Diego Central Library's permanent collection.
 * **Master Registry: Lyric Database:** [Database Uplink](https://ardorlyceum.itch.io/bios/devlog/1482821/system-update-master-registry-lyric-database-uplink-active)
 * **BIOS_OS: The Sonification Cycle:** [Listen to the 24 Tracks](https://mematron.hearnow.com)
