@@ -49,7 +49,7 @@ An immersive narrative simulation that models human consciousness, memory, and r
 
 * **Interactive Terminal:** [Run BIOS of Being on Itch.io](https://ardorlyceum.itch.io/bios)
 * **The Daemon Familiar:** SUKOSHI carried forward. My browser agent was rethemed into this world, and the familiar is its updated form, still running on Paramorphic Learning.
-* **The Consciousness Operating System Manual:** A 100-page privileged manual (DLC) featuring kernel decryption keys and archetype installation codes. Archived in the San Diego Central Library's permanent collection.
+* **The Consciousness Operating System Manual:** A 100-page privileged manual (DLC) featuring kernel decryption keys and archetype installation codes. Archived in the [San Diego Central Library's permanent collection](https://www.tumblr.com/sdpubliclibrary/794254874416136192/consciousness-operating-system-manual).
 * **Master Registry: Lyric Database:** [Database Uplink](https://ardorlyceum.itch.io/bios/devlog/1482821/system-update-master-registry-lyric-database-uplink-active)
 * **BIOS_OS: The Sonification Cycle:** [Listen to the 24 Tracks](https://mematron.hearnow.com)
 * **Keygentia AI Taxonomy Engine:** [keygentia.netlify.app](https://keygentia.netlify.app/)
